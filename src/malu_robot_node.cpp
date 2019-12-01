@@ -11,6 +11,8 @@ int main(void)
     robot.Init(1500,1500,0);
     robot.SetVelocity(888);
     robot.SetAcceleration(666);
+    robot.SetOrientation(0);
+    sleep(15);
     clock_t time = clock();
     int num = 0;
     while(1)
