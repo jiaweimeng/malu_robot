@@ -10,3 +10,7 @@ Notes:
 1. All the available functions are defined in [robot.h](https://github.com/jiaweimeng/malu_robot/blob/master/include/malu_robot/robot.h) head file.
 2. QR code needs to be pasted on each waypoint of the path.
 3. After using [robot.SetOrientation()](https://github.com/jiaweimeng/malu_robot/blob/master/include/malu_robot/robot.h), the robot should wait for 15 s to calibrate the orientation.
+4. The orientation of the QR code is shwon in the following figure:
+<p align="center">
+  <img width="600" height="300" src="https://github.com/jiaweimeng/malu_robot/blob/master/qr_code.jpg">
+</p>
