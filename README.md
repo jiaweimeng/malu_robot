@@ -12,5 +12,5 @@ Notes:
 3. After using [robot.SetOrientation()](https://github.com/jiaweimeng/malu_robot/blob/master/include/malu_robot/robot.h), the robot should wait for 15 s to calibrate the orientation.
 4. The orientation of the QR code is shwon in the following figure:
 <p align="center">
-  <img width="600" height="300" src="https://github.com/jiaweimeng/malu_robot/blob/master/qr_code.jpg">
+  <img width="600" height="400" src="https://github.com/jiaweimeng/malu_robot/blob/master/qr_code.jpg">
 </p>
